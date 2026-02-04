@@ -390,3 +390,4 @@ All the limitations mentioned above are **not relevant** for the magisk/root ver
   </tr>
 </table><a href="https://crowdin.com/project/rootlessjamesdsp" target="_blank">Translate in Crowdin 🚀</a>
 <!-- CROWDIN-CONTRIBUTORS-END -->
+ 
